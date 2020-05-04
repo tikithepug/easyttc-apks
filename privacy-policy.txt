@@ -1,20 +1,20 @@
 Easy TTC Privacy Policy
 
 OVERVIEW
-The developers of "Easy TTC" recognizes the importance of privacy. In this Privacy Policy, we describe how we collect, use, and disclose information that we obtain through our mobile application (collectively, the “App”) and the services available through the App (collectively, the “Services”). By using our App, you agree to the terms and conditions of this Privacy Policy. If you do not agree, please do not use or access our App.
+The developers of "Easy TTC" recognize the importance of privacy. In this Privacy Policy, we describe how we collect, use, and disclose information that we obtain through our mobile application (collectively, the "App"). By using our App, you agree to the terms and conditions of this Privacy Policy. If you do not agree, please do not use or access our App.
 
-For purposes of this Privacy Policy, we define “personal information” as personally identifiable information about an individual, such as your name, address, phone number, email address, or other identifier that permits direct or indirect identification of a specific individual, or as otherwise defined by applicable privacy and data security laws.
+For purposes of this Privacy Policy, we define "personal information" as personally identifiable information about an individual, such as your name, address, phone number, email address, or other identifier that permits direct or indirect identification of a specific individual, or as otherwise defined by applicable privacy and data security laws.
 
 1. Information Collection
-We DO NOT collect any personal information about you through your use of our App. We DO NOT combine information about you from any sources.
-
-Our App only uses native APIs to connect to the Nextbus Public Feed. For information about Nextbus's Privacy Policy, please refer to the documenation here => https://www.nextbus.com/xmlFeedDocs/NextBusXMLFeed.pdf
+We DO NOT collect any personal information about you or your devices through your use of our App. We DO NOT combine information about you from any sources.
 
 2. Use of Information
 The only information used in our App is the bus stop information you enter. It is stored in a small database locally on your device ONLY. It is not stored anywhere externally.
 
+The information you enter into our App is only used to connect to the Nextbus Public Feed to provide you with live and accurate transit arrival times and metadata. For information about Nextbus's Privacy Policy, please refer to the documenation here => https://www.nextbus.com/xmlFeedDocs/NextBusXMLFeed.pdf
+
 3. Sharing of Information
-Any data that users enter into our App, is never shared externally with anyone.
+Any data that you enter into our App, is never shared externally with anyone. We have no interest in sharing, collecting, or even using this information for any purpose other than the information provided to you through our App. 
 
 CHANGES TO THIS PRIVACY POLICY
 We reserve the right to modify this Privacy Policy at any time, so please review it periodically. If we make material changes to this policy, we will notify you by explicitly stating that changes have been made and where to review the new changes. This notification will be posted on the Google Play listing for Easy TTC upon any updates.
